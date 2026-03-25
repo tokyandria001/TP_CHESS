@@ -1,6 +1,6 @@
 <?php
 
-namespace TpChess;
+namespace Chess;
 
 class Position{
     private int $row;

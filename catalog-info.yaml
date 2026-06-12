@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TP_CHESS
+  description: TP_CHESS (PHP)
+  annotations:
+    github.com/project-slug: tokyandria001/TP_CHESS
+  tags:
+    - php
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
